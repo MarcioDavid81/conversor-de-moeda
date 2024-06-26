@@ -1,4 +1,4 @@
-let dolar = 5.00;
+let dolar = 5.10;
 
 let usdInput = document.getElementById('usd');
 let brlInput = document.getElementById('brl');
